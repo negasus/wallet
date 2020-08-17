@@ -1,2 +1,6 @@
 github.com/pkg/errors v0.8.0 h1:WdK/asTD0HN+q6hsWO3/vpuAkAr+tw6aNJNDFFf0+qw=
 github.com/pkg/errors v0.8.0/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/pkg/errors v0.9.1 h1:FEBLx1zS214owpjy7qsBeixbURkuhQAwrK5UwLGTwt4=
+github.com/pkg/errors v0.9.1/go.mod h1:bwawxfHBFNV+L2hUp1rHADufV3IMtnDRdf1r5NINEl0=
+github.com/rentziass/wallet v0.0.0-20181204183105-a825e552bd4a h1:XA25OfM38rQR5w1e3Hm7XcQDYv/iW5assu3Z3r39S08=
+github.com/rentziass/wallet v0.0.0-20181204183105-a825e552bd4a/go.mod h1:4fxmw+zuqZswaB8MFkq1hPDU12ZitboeAUYY97i2T4Q=
