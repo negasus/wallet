@@ -176,7 +176,7 @@ type Field struct {
 	DataDetectorTypes []string `json:"dataDetectorTypes,omitempty"`
 	Key               string   `json:"key"`
 	Label             string   `json:"label,omitempty"`
-	TextAlignment     string   `json:"textAlignment,optional"`
+	TextAlignment     string   `json:"textAlignment,omitempty"`
 	Value             string   `json:"value"`
 
 	// Date Style Keys
